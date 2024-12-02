@@ -1,0 +1,9 @@
+[theme]
+base="light"
+backgroundColor="#f8f4f9"
+secondaryBackgroundColor="#e8e0f5"
+font="serif"
+
+
+[client]
+toolbarMode = "viewer"
